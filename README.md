@@ -1,2 +1,2 @@
-# datasciencecoursera3
-This is the Repo for this class
+
+This is the REPO for this class
